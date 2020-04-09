@@ -1,2 +1,2 @@
 # DAA-Website
-website containing importan t topics of DAA syllabus
+website containing important topics of DAA syllabus
